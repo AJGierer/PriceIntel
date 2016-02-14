@@ -1,0 +1,19 @@
+#main_question {
+	color: black;
+	border: 2px red solid;
+	background-color: teal;
+	border-radius: 20px;
+	padding: 5px;
+	width: 500px;
+	text-align: center;
+	}
+	
+#answers {
+	padding: 10px;
+	}
+	
+.answerChoice {
+	color: red;
+	padding: 10px;
+	border: 2px black solid;
+	}
